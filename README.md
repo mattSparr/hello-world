@@ -1,2 +1,3 @@
 # hello-world
-The start of github 
+GitHub is easier to use on the brower than the desktop App
+
